@@ -1,0 +1,10 @@
+<litepal>
+    <dbname value = "h2_weather">
+        <version value = "1"/>
+        <list>
+            <mappping class = "com.example.jahony.h2weather.android.db.Province"/>
+            <mappping class = "com.example.jahony.h2weather.android.db.City"/>
+            <mappping class = "com.example.jahony.h2weather.android.db.County"/>
+        </list>
+    </dbname>
+</litepal>
