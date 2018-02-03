@@ -1,10 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
 <litepal>
-    <dbname value = "h2_weather">
-        <version value = "1"/>
+    <dbname value = "h2_weather"></dbname>
+        <version value = "3"></version>
         <list>
-            <mappping class = "com.example.jahony.h2weather.android.db.Province"/>
-            <mappping class = "com.example.jahony.h2weather.android.db.City"/>
-            <mappping class = "com.example.jahony.h2weather.android.db.County"/>
+            <mapping class = "com.example.jahony.h2weather.db.Province"></mapping>
+            <mapping class = "com.example.jahony.h2weather.db.City"></mapping>
+            <mapping class = "com.example.jahony.h2weather.db.County"></mapping>
         </list>
-    </dbname>
 </litepal>
