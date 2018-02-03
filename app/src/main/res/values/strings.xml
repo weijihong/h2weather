@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">H2Weather</string>
+    <string name="app_name">氢气象</string>
     <string name="yubao">预报</string>
     <string name="kongqizhiliang">空气质量</string>
     <string name="aqizhishu">AQI 指数</string>
